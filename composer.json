@@ -1,0 +1,25 @@
+{
+    "name": "yousefabuanzeh/micro",
+    "type": "project",
+    "autoload": {
+        "files": [
+            "helpers/route.php",
+            "helpers/view.php",
+            "helpers/config.php",
+            "helpers/env.php"
+        ],
+        "psr-4": {
+            "Yousef\\Micro\\": "app/",
+            "Yousef\\Micro\\System\\": "system/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yousef",
+            "email": "yousef.dev20@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-pdo": "*"
+    }
+}
