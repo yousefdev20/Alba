@@ -2,7 +2,7 @@
 
 namespace Yousef\Micro\System\Core;
 
-class Controller
+abstract class Controller
 {
 
 }
