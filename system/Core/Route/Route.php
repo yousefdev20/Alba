@@ -29,11 +29,7 @@ class Route
      */
     public static function get(string $url, array $action): Builder\Route
     {
-
         return self::$route->get($url, $action);
-
-
-        return new static();
     }
 
     /**
