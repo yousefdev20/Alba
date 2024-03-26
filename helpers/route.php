@@ -1,6 +1,8 @@
 <?php
 
-function route(string $name): string
-{
-    return '';
+if (! function_exists('route')) {
+    function route(string $name): string
+    {
+        return '';
+    }
 }
