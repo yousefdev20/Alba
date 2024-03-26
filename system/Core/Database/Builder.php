@@ -1,6 +1,6 @@
 <?php
 
-namespace Yousef\Micro\System\Core\Database;
+namespace Yousef\Alba\System\Core\Database;
 
 class Builder
 {

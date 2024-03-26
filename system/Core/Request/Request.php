@@ -1,8 +1,8 @@
 <?php
 
-namespace Yousef\Micro\System\Core\Request;
+namespace Yousef\Alba\System\Core\Request;
 
-use Yousef\Micro\System\Core\Request\Concerns\Request as AbstractRequest;
+use Yousef\Alba\System\Core\Request\Concerns\Request as AbstractRequest;
 
 class Request extends AbstractRequest
 {

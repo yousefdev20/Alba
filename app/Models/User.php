@@ -1,8 +1,8 @@
 <?php
 
-namespace Yousef\Micro\Models;
+namespace Yousef\Alba\Models;
 
-use Yousef\Micro\System\Core\Model;
+use Yousef\Alba\System\Core\Model;
 
 class User extends Model
 {

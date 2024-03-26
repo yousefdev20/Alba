@@ -1,9 +1,9 @@
 <?php
 
-namespace Yousef\Micro\System\Core\Route;
+namespace Yousef\Alba\System\Core\Route;
 
-use Yousef\Micro\System\Core\App\Container;
-use Yousef\Micro\System\Core\Request\Request;
+use Yousef\Alba\System\Core\App\Container;
+use Yousef\Alba\System\Core\Request\Request;
 
 class Route
 {

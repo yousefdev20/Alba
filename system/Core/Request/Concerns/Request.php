@@ -1,6 +1,6 @@
 <?php
 
-namespace Yousef\Micro\System\Core\Request\Concerns;
+namespace Yousef\Alba\System\Core\Request\Concerns;
 
 abstract class Request
 {

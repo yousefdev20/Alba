@@ -1,6 +1,6 @@
 <?php
 
-namespace Yousef\Micro\System\Core\Exceptions\Route;
+namespace Yousef\Alba\System\Core\Exceptions\Route;
 
 class RouteNotFoundException extends \Exception
 {

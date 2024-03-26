@@ -1,6 +1,6 @@
 <?php
 
-namespace Yousef\Micro\System\Core;
+namespace Yousef\Alba\System\Core;
 
 abstract class Model
 {

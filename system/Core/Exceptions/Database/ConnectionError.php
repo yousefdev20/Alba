@@ -1,6 +1,6 @@
 <?php
 
-namespace Yousef\Micro\System\Core\Exceptions\Database;
+namespace Yousef\Alba\System\Core\Exceptions\Database;
 
 class ConnectionError extends \Exception
 {

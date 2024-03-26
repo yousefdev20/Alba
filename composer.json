@@ -1,5 +1,5 @@
 {
-    "name": "yousefabuanzeh/micro",
+    "name": "yousefabuanzeh/alba",
     "type": "project",
     "autoload": {
         "files": [
@@ -9,8 +9,8 @@
             "helpers/env.php"
         ],
         "psr-4": {
-            "Yousef\\Micro\\": "app/",
-            "Yousef\\Micro\\System\\": "system/"
+            "Yousef\\Alba\\": "app/",
+            "Yousef\\Alba\\System\\": "system/"
         }
     },
     "authors": [

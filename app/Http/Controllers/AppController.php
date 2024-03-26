@@ -1,9 +1,9 @@
 <?php
 
-namespace Yousef\Micro\Http\Controllers;
+namespace Yousef\Alba\Http\Controllers;
 
-use Yousef\Micro\Models\User;
-use Yousef\Micro\System\Core\Controller;
+use Yousef\Alba\Models\User;
+use Yousef\Alba\System\Core\Controller;
 
 class AppController extends Controller
 {
