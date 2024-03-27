@@ -6,4 +6,4 @@ require __DIR__ . '/vendor/autoload.php';
 
 (new Application())->handelIncomingRequest();
 
-die(json_encode(\Yousef\Alba\System\Core\App\Container::getInstance()->routes));
+die((\Yousef\Alba\System\Core\App\Container::getInstance()->routes[1]));

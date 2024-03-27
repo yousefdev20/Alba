@@ -1,6 +1,6 @@
 <?php
 
-namespace Yousef\Alba\System\Core\Route;
+namespace Yousef\Alba\System\Core\Routing;
 
 use Yousef\Alba\System\Core\App\Container;
 
